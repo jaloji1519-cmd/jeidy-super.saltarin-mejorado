@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Jeidy Super Saltarín 2D",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/version_2d/game_2d.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Jeidy Super Saltarín 3D",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/version_3d/game_3d.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

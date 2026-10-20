@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Telemetría generada por el juego
+telemetria/
+*.csv
+
+# Editores / sistema
+.vscode/
+!.vscode/
+!.vscode/launch.json
+.idea/
+.DS_Store
+Thumbs.db
